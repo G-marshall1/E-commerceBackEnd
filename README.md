@@ -9,6 +9,8 @@ I wanted to create an application that will allow me to add, delete, update, pos
 
 GitHub Repository Link - https://github.com/G-marshall1/Employee-tracker
 
+Video walk-through - https://drive.google.com/file/d/1nrSrIM2XJEhgH_D1fNxV8Dsz94CBU9SW/view
+
 
 
 For installation please clone code to terminal and install sequelize, and mysql
