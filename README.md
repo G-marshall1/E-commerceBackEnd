@@ -9,7 +9,7 @@ I wanted to create an application that will allow me to add, delete, update, pos
 
 GitHub Repository Link - https://github.com/G-marshall1/Employee-tracker
 
-Video walk-through - https://drive.google.com/file/d/1nrSrIM2XJEhgH_D1fNxV8Dsz94CBU9SW/view
+Video walk-through - https://www.loom.com/share/437285f2fadf43c4a722abb8395a289f?sid=b5d570e5-5a8e-48d0-825f-2cc439e3e34c
 
 
 
